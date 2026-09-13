@@ -1,3 +1,5 @@
+//left pyramid pattern
+
 public class Pattern4 {
     public static void main(String[] args) {
         pattern1(5);
